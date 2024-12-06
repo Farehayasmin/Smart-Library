@@ -1,10 +1,6 @@
-```markdown
 # Nexus Library
 
-Welcome to **Nexus Library**, your ultimate online destination for an extensive collection of books, journals,
-and educational resources. Whether you're a student, researcher, or book lover, our user-friendly platform offer
-easy access to a wealth of knowledge at your fingertips. Explore diverse genres, stay updated with the latest
-publications,and immerse yourself in the world of reading with Nexus Library.
+Welcome to **Nexus Library**, your ultimate online destination for an extensive collection of books, journals, and educational resources. Whether you're a student, researcher, or book lover, our user-friendly platform offers easy access to a wealth of knowledge at your fingertips. Explore diverse genres, stay updated with the latest publications, and immerse yourself in the world of reading with Nexus Library.
 
 ---
 
@@ -40,8 +36,7 @@ publications,and immerse yourself in the world of reading with Nexus Library.
 
 ## 🌐 Demo
 
-- **Live Link**: https://smart-library-c251f.firebaseapp.com/
-
+- **Live Link**:https://smart-library-c251f.firebaseapp.com/ 
 ---
 
 ## 🚀 Clone and Run the Project
@@ -54,18 +49,25 @@ Clone the project repository using the following command:
 
 ```bash
 git clone https://github.com/Farehayasmin/Smart-Library
+
+
 ```
 
 ### Step 2: Install Dependencies
+
 
 ```bash
 npm install
 ```
 
 ### Step 3: Run the Project Locally
+
+
 ```bash
 npm run dev
 ```
+
 ---
+
 Enjoy your journey with **Nexus Library**, and happy reading! 📖
 ```
